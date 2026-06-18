@@ -1,0 +1,16 @@
+Order ID,Order Date,Category,Product Name,State,Sales,Profit,Quantity
+1001,2025-01-05,Electronics,Laptop,Telangana,55000,8000,1
+1002,2025-01-07,Clothing,T-Shirt,Andhra Pradesh,1200,300,2
+1003,2025-01-10,Electronics,Mobile Phone,Karnataka,25000,4000,1
+1004,2025-01-15,Furniture,Office Chair,Tamil Nadu,7000,1500,1
+1005,2025-02-02,Clothing,Jeans,Maharashtra,2500,600,1
+1006,2025-02-10,Electronics,Headphones,Telangana,3000,700,2
+1007,2025-02-18,Furniture,Study Table,Karnataka,9000,1800,1
+1008,2025-03-01,Electronics,Smart Watch,Andhra Pradesh,6000,1200,1
+1009,2025-03-12,Clothing,Shoes,Tamil Nadu,3500,900,1
+1010,2025-03-20,Furniture,Sofa,Maharashtra,25000,5000,1
+1011,2025-04-05,Electronics,Tablet,Telangana,18000,3000,1
+1012,2025-04-15,Clothing,Jacket,Karnataka,4000,1000,1
+1013,2025-04-22,Furniture,Bookshelf,Andhra Pradesh,8500,1700,1
+1014,2025-05-03,Electronics,Camera,Tamil Nadu,35000,6000,1
+1015,2025-05-15,Clothing,Shirt,Maharashtra,1800,400,2
